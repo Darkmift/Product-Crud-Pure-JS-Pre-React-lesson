@@ -1,0 +1,19 @@
+***********CSS************
+// learn about css box - sizing
+// flexbox froggy
+// grid garden
+
+***********JS***********
+// CRUD
+// MODULES,import & export
+
+****programming****
+DRY
+encapsulation
+
+***programming/design patterns***
+factory pattern
+REST API (GET,POST,PUT,PATCH,DELETE)
+ARROW FUNCTION
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+this,lexical scoping
